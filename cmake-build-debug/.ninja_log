@@ -1,0 +1,20 @@
+# ninja log v6
+1	56	1732012455178330504	build.ninja	545884bfaa925cfa
+4	432	1731674551310304665	CMakeFiles/TodoList_project.dir/source/Task.cpp.o	f8f7cffae1a56e3
+3	438	1731674551309443498	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+438	522	1731674551744283503	TodoList_project	c64b76191c26fc4d
+4	550	1732015108134564474	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+5	550	1732015108135694263	CMakeFiles/TodoList_project.dir/source/Task.cpp.o	f8f7cffae1a56e3
+550	714	1732015108681233472	TodoList_project	c64b76191c26fc4d
+4	402	1732015354853160403	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+402	439	1732015355251185800	TodoList_project	c64b76191c26fc4d
+4	426	1732015574971961518	CMakeFiles/TodoList_project.dir/source/Task.cpp.o	f8f7cffae1a56e3
+3	381	1732016054626818248	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+381	415	1732016055004475095	TodoList_project	c64b76191c26fc4d
+3	507	1732016991295332880	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+507	592	1732016991799438521	TodoList_project	c64b76191c26fc4d
+8	392	1732017012711280167	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+392	421	1732017013094885212	TodoList_project	c64b76191c26fc4d
+5	424	1732017283264196528	CMakeFiles/TodoList_project.dir/source/Task.cpp.o	f8f7cffae1a56e3
+4	425	1732017283263510446	CMakeFiles/TodoList_project.dir/main.cpp.o	60059bbf8bd1d48c
+425	456	1732017283684603222	TodoList_project	c64b76191c26fc4d
