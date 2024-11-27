@@ -1,0 +1,3 @@
+/Users/javidsalihe/Documents/cPlusePluse/todo_project/cmake-build-debug/CMakeFiles/todo_project.dir
+/Users/javidsalihe/Documents/cPlusePluse/todo_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/javidsalihe/Documents/cPlusePluse/todo_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
